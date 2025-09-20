@@ -1,0 +1,6 @@
+{
+  "siteId": "828d7392-886a-4e05-8c0b-456fb32a84d4",
+  "domain": "jokerian",
+  "buildCommand": "hugo",
+  "buildDir": "public"
+}

@@ -50,7 +50,6 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "Jokerian Choi"
-  about = "Member of Jk-acme Foundation"
 
 [blackfriday]
   # hrefTargetBlank = true

@@ -2,7 +2,9 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://jokerian.orbiter.website/en/sitemap.xml</loc>
+    
+      <lastmod>2025-09-20T13:52:05+00:00</lastmod>
     
   </sitemap>
   
